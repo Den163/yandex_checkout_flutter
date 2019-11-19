@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.1.0 2019/11/19
 
-* TODO: Describe initial release.
+Added basic functionality

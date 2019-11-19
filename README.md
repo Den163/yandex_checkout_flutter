@@ -33,7 +33,9 @@ class _ExampleState extends State<Example> {
         value: 100,
         currency: "RUB"
       ),
+      // Set your own key
       clientApplicationKey : "<Client Application Key>",
+      // Set your own shop id
       shopId : "<Your Shop ID>",
       paymentMethodTypes : {
         PaymentMethodType.BANK_CARD, PaymentMethodType.GOOGLE_PAY,

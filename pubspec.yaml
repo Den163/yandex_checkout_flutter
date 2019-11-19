@@ -1,6 +1,6 @@
 name: yandex_checkout
-description: A Yandex.Checkout plugin for Flutter.
-version: 0.1.3
+description: A Yandex.Checkout plugin for Flutter with convenient in-app payment without webview (Android implementation only!).
+version: 0.1.4
 author: Den163 <abramov.denis163@gmail.com>
 homepage: https://github.com/Den163/yandex_checkout_flutter
 

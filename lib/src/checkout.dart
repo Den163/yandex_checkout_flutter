@@ -1,6 +1,5 @@
 import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart';
-import 'package:yandex_checkout/src/payment_method_type.dart';
 import 'package:yandex_checkout/src/payment_parameters.dart';
 import 'package:yandex_checkout/src/tokenization_result.dart';
 

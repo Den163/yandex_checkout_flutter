@@ -7,7 +7,7 @@ A Yandex Checkout plugin for Flutter. (Note that there is an Android implementat
 To try an example you need to set your own client application key and shop ID
 from checkout cabinet to the payment parameters as described below.
 
-Please note that this example doesn't use Yandex Money payment method, so if you need it, you can setup it additionaly as in the docs https://github.com/yandex-money/yandex-checkout-android-sdk#%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-yandexloginsdk
+Please note that this example doesn't use Yandex Money payment method, so if you need it, you need to set up YandexLoginSdk for Android https://github.com/yandex-money/yandex-checkout-android-sdk#%D0%BF%D0%BE%D0%B4%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-yandexloginsdk
 
 
 ``` dart
